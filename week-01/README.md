@@ -24,8 +24,8 @@
 
 | 자료 | 설명 |
 |------|------|
-| [슬라이드](theory/slides.md) | Marp 기반 프레젠테이션 (수업용) |
-| [설명 문서](theory/explanation.md) | 한글 상세 설명 (복습용) |
+| [슬라이드](theory/slides.md) | Marp 기반 프레젠테이션 |
+| [설명 문서](theory/explanation.md) | 공부가 더 필요하신 분  |
 
 **핵심 개념:**
 - 이더리움 = 상태 머신
